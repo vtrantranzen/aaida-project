@@ -1,4 +1,5 @@
 🌐 GLOBAL OPEN ACCESS STATEMENT / TUYÊN BỐ TIẾP CẬN TOÀN CẦU
+
 🇺🇸 English
 AAIDA — Acupuncture AI Diagnosis Assistant is a 100% free, open-source project released under the MIT License (pp. 1-2).
 •	Global Non-Exclusive Use: This platform is intended for free, worldwide use. Any medical institution, university, or individual developer is entirely free to adopt, modify, teach, and deploy this system without commercial restrictions or exclusivity.
