@@ -16,9 +16,9 @@ AAIDA — Trợ lý Chẩn đoán AI Châm cứu là dự án mã nguồn mở h
 •	Di sản & Hợp tác nhân văn: Dự án là món quà không điều kiện gửi tặng cộng đồng Đông y toàn cầu. Trong giới hạn quỹ thời gian và điều kiện sức khỏe cho phép, tác giả luôn sẵn lòng hỗ trợ, cố vấn kỹ thuật trực tuyến để chuyển giao công nghệ và định hướng các nâng cấp chuyên sâu (p. 3).
 
 🇨🇳 简体中文 (Simplified Chinese)
-AAIDA — 针灸 AI 辅助诊断 hệ thống 是一个根据 MIT 许可证发布的 100% 免费开源项目 (pp. 1-2)。
-•	全球非排他性使用： 本平台旨在供全球免费使用。任何医疗机构、大学或个人开发者均可完全自由地采用、修改、教学和部署本系统，不受任何商业限制或独家排他性约束。
-•	传承与合作： 本项目作为无条件奉献给全球传统医学界的礼物而诞生。在健康和时间允许的范围内，作者将全力提供技术指导和远程协助，以支持系统的落地应用与未来升级 (p. 3)
+AAIDA — 针灸 AI 辅助诊断系统是一个根据 MIT 许可证发布的 100% 免费开源项目 (pp. 1-2)。
+全球非排他性使用： 本平台旨在供全球免费使用。任何医疗机构、大学或个人开发者均可完全自由地采用、修改、教学和部署本系统，不受任何商业限制或独家排他性约束。
+传承与合作： 本项目作为无条件奉献给全球传统医学界的礼物而诞生。在健康和时间允许的范围内，作者将全力提供技术指导和远程协助，以支持系统的落地应用与未来升级 (p. 3)
 
 ---
 
