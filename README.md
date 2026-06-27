@@ -1,3 +1,26 @@
+🌐 GLOBAL OPEN ACCESS STATEMENT / TUYÊN BỐ TIẾP CẬN TOÀN CẦU
+🇺🇸 English
+AAIDA — Acupuncture AI Diagnosis Assistant is a 100% free, open-source project released under the MIT License (pp. 1-2).
+•	Global Non-Exclusive Use: This platform is intended for free, worldwide use. Any medical institution, university, or individual developer is entirely free to adopt, modify, teach, and deploy this system without commercial restrictions or exclusivity.
+•	Legacy & Collaboration: This project is built as a non-conditional gift to the global traditional medicine community. The author remains fully committed to providing technical guidance and remote mentorship for implementation and future advancements for as long as health and time permit (p. 3).
+
+🇫🇷 Français
+AAIDA — Assistant de Diagnostic par l'IA en Acupuncture est un projet 100% gratuit et open-source, publié sous licence MIT (pp. 1-2).
+•	Utilisation Mondiale Non Exclusive: Cette plateforme est conçue pour une utilisation libre à l'échelle internationale. Toute institution médicale, université hoặc développeur indépendant est pleinement autorisé à adopter, modifier, enseigner et déployer ce système, sans aucune restriction commerciale ni exclusivité.
+•	Héritage et Collaboration: Ce projet est offert comme un don inconditionnel à la communauté mondiale de la médecine traditionnelle. L'auteur s'engage pleinement à fournir des conseils techniques et un accompagnement à distance pour l'intégration et les développements futurs, tant que la santé et le temps le permettront (p. 3).
+
+🇻🇳 Tiếng Việt
+AAIDA — Trợ lý Chẩn đoán AI Châm cứu là dự án mã nguồn mở hoàn toàn miễn phí, được phát hành theo giấy phép MIT (pp. 1-2).
+•	Quyền Sử dụng Phi Độc quyền Toàn cầu: Nền tảng này được thiết kế để sử dụng tự do trên toàn thế giới. Mọi bệnh viện, trường đại học hoặc nhà phát triển cá nhân đều có toàn quyền tiếp nhận, chỉnh sửa, giảng dạy và triển khai hệ thống mà không chịu bất kỳ ràng buộc thương mại hay giới hạn độc quyền nào.
+•	Di sản & Hợp tác nhân văn: Dự án là món quà không điều kiện gửi tặng cộng đồng Đông y toàn cầu. Trong giới hạn quỹ thời gian và điều kiện sức khỏe cho phép, tác giả luôn sẵn lòng hỗ trợ, cố vấn kỹ thuật trực tuyến để chuyển giao công nghệ và định hướng các nâng cấp chuyên sâu (p. 3).
+
+🇨🇳 简体中文 (Simplified Chinese)
+AAIDA — 针灸 AI 辅助诊断 hệ thống 是一个根据 MIT 许可证发布的 100% 免费开源项目 (pp. 1-2)。
+•	全球非排他性使用： 本平台旨在供全球免费使用。任何医疗机构、大学或个人开发者均可完全自由地采用、修改、教学和部署本系统，不受任何商业限制或独家排他性约束。
+•	传承与合作： 本项目作为无条件奉献给全球传统医学界的礼物而诞生。在健康和时间允许的范围内，作者将全力提供技术指导和远程协助，以支持系统的落地应用与未来升级 (p. 3)
+
+---
+
 # AAIDA — Acupuncture AI Diagnosis Assistant
 
 **Free · Multilingual · Open Educational Tool for TCM**
